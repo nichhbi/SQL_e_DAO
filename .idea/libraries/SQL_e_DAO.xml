@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="SQL e DAO">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SQL e DAO/mysql-connector-j-8.0.31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SQL e DAO/mariadb-java-client-3.0.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
